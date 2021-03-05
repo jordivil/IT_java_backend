@@ -4,7 +4,7 @@ public class N2 {
 
 	public static void main(String[] args) {
 		double valor = 3.5646d;
-		int  variableInt;
+		int variableInt;
 		float variableFloat;
 		String variableString;
 		variableInt = (int) valor;
@@ -15,5 +15,4 @@ public class N2 {
 		System.out.println("Valor float: " + variableFloat);
 		System.out.println("Convertit a string: " + variableString);
 	}
-
 }

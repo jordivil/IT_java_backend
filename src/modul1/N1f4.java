@@ -1,6 +1,6 @@
 package modul1;
 
-public class N1F4 {
+public class N1f4 {
 
 	public static void main(String[] args) {
 		String nom, cognom1, cognom2, nomComplert, dataNeixament;
@@ -18,7 +18,5 @@ public class N1F4 {
 		if (any%4==0) {
 			System.out.println("Vaig nèixer en any de traspàs");
 		}
-		
 	}
-
 }
